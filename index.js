@@ -13,3 +13,5 @@ const {
 } = obj;
 
 console.log(age,country);
+
+ 
